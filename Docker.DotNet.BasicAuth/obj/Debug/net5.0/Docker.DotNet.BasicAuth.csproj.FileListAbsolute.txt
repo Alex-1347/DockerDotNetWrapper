@@ -1,0 +1,12 @@
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\obj\Debug\net5.0\Docker.DotNet.BasicAuth.csproj.AssemblyReference.cache
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\obj\Debug\net5.0\Docker.DotNet.BasicAuth.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\obj\Debug\net5.0\Docker.DotNet.BasicAuth.AssemblyInfoInputs.cache
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\obj\Debug\net5.0\Docker.DotNet.BasicAuth.AssemblyInfo.cs
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\obj\Debug\net5.0\Docker.DotNet.BasicAuth.csproj.CoreCompileInputs.cache
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\bin\Debug\net5.0\Docker.DotNet.BasicAuth.deps.json
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\bin\Debug\net5.0\Docker.DotNet.BasicAuth.dll
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\bin\Debug\net5.0\ref\Docker.DotNet.BasicAuth.dll
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\bin\Debug\net5.0\Docker.DotNet.BasicAuth.pdb
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\obj\Debug\net5.0\Docker.DotNet.BasicAuth.dll
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\obj\Debug\net5.0\ref\Docker.DotNet.BasicAuth.dll
+E:\Projects\CryptoChestMax\DockerDotNetWrapper\Docker.DotNet.BasicAuth\obj\Debug\net5.0\Docker.DotNet.BasicAuth.pdb
